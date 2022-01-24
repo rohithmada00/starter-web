@@ -17,3 +17,6 @@ blablabla is mcoidcods
 
 ## BLABLABLA
 blablabla is mcoidcods
+
+## COPYRIGHT DISCLAIMER
+those who copy should pay bla bla
