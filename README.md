@@ -20,3 +20,6 @@ blablabla is mcoidcods
 
 ## COPYRIGHT DISCLAIMER
 those who copy should pay bla bla
+
+## HOW TO CONTRIBUTE
+Please bla bla for us
