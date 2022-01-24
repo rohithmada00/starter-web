@@ -7,4 +7,7 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 # BLA BLA BLA
-# BLABLA BLABLA
+bla is awesome
+
+## BLABLA BLABLA
+blabla is super awesome
